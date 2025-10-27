@@ -6,7 +6,7 @@ Loops are essential for working with collections like **lists** and **ranges**, 
 
 ---
 
-##  Key Topics Covered
+##  Key Topics
 
 ### **For Loops**
 A `for` loop allows us to execute a block of code multiple times — once for each element in a list or range.
